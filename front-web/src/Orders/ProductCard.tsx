@@ -9,7 +9,6 @@ function formatPrice(price:number) {
         style: 'currency',
         currency: 'BRL',
         minimumFractionDigits: 2
-
     });
 
     return formatter.format(price);
