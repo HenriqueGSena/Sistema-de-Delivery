@@ -1,7 +1,6 @@
 import './styles.css';
 import { ReactComponent as GitHubIcon } from './github.svg'
 import { ReactComponent as LinkedinIcon } from './linkedin.svg'
-import { ReactComponent as InstagramIcon } from './instagram.svg'
 
 function Footer() {
     
@@ -15,9 +14,7 @@ function Footer() {
                 <a href="https://www.linkedin.com/in/carloshenrique26/" target="_new">
                     <LinkedinIcon />
                 </a>
-                <a href="https://wwww.instagram.com/devsuperior.ig/" target="_new">
-                    <InstagramIcon />
-                </a>
+                
             </div>
         </footer>
     )
