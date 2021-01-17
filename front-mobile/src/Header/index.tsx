@@ -13,7 +13,7 @@ function Header() {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: '#DA5C5C',
-    height: 90,
+    height: 95,
     paddingTop: 50,
     flexDirection: 'row',
     justifyContent: 'center'
